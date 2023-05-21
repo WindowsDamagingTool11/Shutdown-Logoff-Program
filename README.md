@@ -26,7 +26,6 @@ Other Advanced Options Menu
 9. Admin Menu (Requires Administator Privileges)
 
 This tool has Admin Mode:
-this tool has:
 1. Classic Boot Menu Access
 2. User Account Control Menu
 3. Driver Signature enforcement access
