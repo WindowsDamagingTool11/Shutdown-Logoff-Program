@@ -25,7 +25,7 @@ Other Advanced Options Menu:
 8. Shutdown Command (Another Command to Shutdown the computer.)
 9. Admin Menu (Requires Administator Privileges)
 
-This tool has Admin Mode:
+This tool has Admin Mode: (Administrator Access Required)
 1. Classic Boot Menu Access
 2. User Account Control Menu
 3. Driver Signature enforcement access
