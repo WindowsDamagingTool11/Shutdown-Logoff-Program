@@ -1,7 +1,7 @@
 # Shutdown/Logoff Program
 To Access Full Power Options
-To shutdown computers that have no power options or cannot be done from administator purposes or IT Administators restrictions,
-This tool will allow you to do that without the requirement of a system administator or an IT Strict Policy,
+To shutdown computers that have no power options or cannot be done from administrator purposes or IT Administrators restrictions,
+This tool will allow you to do that without the requirement of a system administrator or an IT Strict Policy,
 This has the following,
 
 The Tool has the following power/logout options:
