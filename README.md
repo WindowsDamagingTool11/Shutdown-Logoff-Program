@@ -2,7 +2,18 @@
 To Access Full Power Options
 To shutdown computers that have no power options or cannot be done from administator purposes or IT Administators restrictions,
 This tool will allow you to do that without the requirement of a system administator or an IT Strict Policy,
-This has the Folowing.
+This has the following,
+
+The Tool has the following power/logout options:
+1. Hybrid Shutdown
+2. Shutdown
+3. Restart
+4. Hibernate
+5. Standby
+6. Sleep
+7. Disconnect (Switch Users)
+8. Logoff/Signout
+9. Lock
 
 Advanced Options:
 1. Time Shutdown
@@ -23,11 +34,3 @@ Other Advanced Options Menu:
 6. Shutdown Parameter
 7. Remote Shutdown Dialog
 8. Shutdown Command (Another Command to Shutdown the computer.)
-9. Admin Menu (Requires Administator Privileges)
-
-This tool has Admin Mode: (Administrator Access Required)
-1. Classic Boot Menu Access
-2. User Account Control Menu
-3. Driver Signature enforcement access
-4. Test Signing Mode access
-5. Safe Mode 
